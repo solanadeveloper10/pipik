@@ -1,0 +1,784 @@
+Uri: https://dukfuks.com/
+File Name: C:\Downloaded Web Sites\dukfuks.com\index.htm
+Content Type: text/html
+
+Uri: https://dukfuks.com/comments/feed/
+File Name: C:\Downloaded Web Sites\dukfuks.com\comments\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://dukfuks.com/feed/
+File Name: C:\Downloaded Web Sites\dukfuks.com\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://dukfuks.com/wp-content/plugins/elementor-pro/assets/js/frontend.min.js?ver=3.16.2
+File Name: C:\Downloaded Web Sites\dukfuks.com\wp-content\plugins\elementor-pro\assets\js\frontend.min.js
+Content Type: application/x-javascript
+
+Uri: https://dukfuks.com/wp-content/plugins/elementor-pro/assets/js/preloaded-elements-handlers.min.js?ver=3.16.2
+File Name: C:\Downloaded Web Sites\dukfuks.com\wp-content\plugins\elementor-pro\assets\js\preloaded-elements-handlers.min.js
+Content Type: application/x-javascript
+
+Uri: https://dukfuks.com/wp-content/plugins/elementor-pro/assets/js/webpack-pro.runtime.min.js?ver=3.16.2
+File Name: C:\Downloaded Web Sites\dukfuks.com\wp-content\plugins\elementor-pro\assets\js\webpack-pro.runtime.min.js
+Content Type: application/x-javascript
+
+Uri: https://dukfuks.com/wp-content/plugins/elementor/assets/js/frontend-modules.min.js?ver=3.23.4
+File Name: C:\Downloaded Web Sites\dukfuks.com\wp-content\plugins\elementor\assets\js\frontend-modules.min.js
+Content Type: application/x-javascript
+
+Uri: https://dukfuks.com/wp-content/plugins/elementor/assets/js/frontend.min.js?ver=3.23.4
+File Name: C:\Downloaded Web Sites\dukfuks.com\wp-content\plugins\elementor\assets\js\frontend.min.js
+Content Type: application/x-javascript
+
+Uri: https://dukfuks.com/wp-content/plugins/elementor/assets/js/webpack.runtime.min.js?ver=3.23.4
+File Name: C:\Downloaded Web Sites\dukfuks.com\wp-content\plugins\elementor\assets\js\webpack.runtime.min.js
+Content Type: application/x-javascript
+
+Uri: https://dukfuks.com/wp-content/plugins/elementor/assets/lib/animations/animations.min.css?ver=3.23.4
+File Name: C:\Downloaded Web Sites\dukfuks.com\wp-content\plugins\elementor\assets\lib\animations\animations.min.css
+Content Type: text/css
+
+Uri: https://dukfuks.com/wp-content/plugins/elementor/assets/lib/swiper/v8/css/swiper.min.css?ver=8.4.5
+File Name: C:\Downloaded Web Sites\dukfuks.com\wp-content\plugins\elementor\assets\lib\swiper\v8\css\swiper.min.css
+Content Type: text/css
+
+Uri: https://dukfuks.com/wp-content/plugins/elementor/assets/lib/waypoints/waypoints.min.js?ver=4.0.2
+File Name: C:\Downloaded Web Sites\dukfuks.com\wp-content\plugins\elementor\assets\lib\waypoints\waypoints.min.js
+Content Type: application/x-javascript
+
+Uri: https://dukfuks.com/wp-content/plugins/mousewheel-smooth-scroll/js/SmoothScroll.min.js?ver=1.4.10
+File Name: C:\Downloaded Web Sites\dukfuks.com\wp-content\plugins\mousewheel-smooth-scroll\js\SmoothScroll.min.js
+Content Type: application/x-javascript
+
+Uri: https://dukfuks.com/wp-content/plugins/qi-addons-for-elementor/assets/css/grid.min.css?ver=1.7.7
+File Name: C:\Downloaded Web Sites\dukfuks.com\wp-content\plugins\qi-addons-for-elementor\assets\css\grid.min.css
+Content Type: text/css
+
+Uri: https://dukfuks.com/wp-content/plugins/qi-addons-for-elementor/assets/css/helper-parts.min.css?ver=1.7.7
+File Name: C:\Downloaded Web Sites\dukfuks.com\wp-content\plugins\qi-addons-for-elementor\assets\css\helper-parts.min.css
+Content Type: text/css
+
+Uri: https://dukfuks.com/wp-content/plugins/qi-addons-for-elementor/assets/css/main.min.css?ver=1.7.7
+File Name: C:\Downloaded Web Sites\dukfuks.com\wp-content\plugins\qi-addons-for-elementor\assets\css\main.min.css
+Content Type: text/css
+
+Uri: https://dukfuks.com/wp-content/plugins/qi-addons-for-elementor/assets/js/main.min.js?ver=1.7.7
+File Name: C:\Downloaded Web Sites\dukfuks.com\wp-content\plugins\qi-addons-for-elementor\assets\js\main.min.js
+Content Type: application/x-javascript
+
+Uri: https://dukfuks.com/wp-content/plugins/qi-addons-for-elementor/assets/plugins/fslightbox/fslightbox.min.js?ver=6.6.2
+File Name: C:\Downloaded Web Sites\dukfuks.com\wp-content\plugins\qi-addons-for-elementor\assets\plugins\fslightbox\fslightbox.min.js
+Content Type: application/x-javascript
+
+Uri: https://dukfuks.com/wp-content/plugins/qi-addons-for-elementor/assets/plugins/swiper/swiper.min.js?ver=8.4.5
+File Name: C:\Downloaded Web Sites\dukfuks.com\wp-content\plugins\qi-addons-for-elementor\assets\plugins\swiper\swiper.min.js
+Content Type: application/x-javascript
+
+Uri: https://dukfuks.com/wp-content/plugins/qi-addons-for-elementor/inc/masonry/assets/js/plugins/isotope.pkgd.min.js?ver=3.0.6
+File Name: C:\Downloaded Web Sites\dukfuks.com\wp-content\plugins\qi-addons-for-elementor\inc\masonry\assets\js\plugins\isotope.pkgd.min.js
+Content Type: application/x-javascript
+
+Uri: https://dukfuks.com/wp-content/plugins/qi-addons-for-elementor/inc/masonry/assets/js/plugins/packery-mode.pkgd.min.js?ver=2.0.1
+File Name: C:\Downloaded Web Sites\dukfuks.com\wp-content\plugins\qi-addons-for-elementor\inc\masonry\assets\js\plugins\packery-mode.pkgd.min.js
+Content Type: application/x-javascript
+
+Uri: https://dukfuks.com/wp-content/plugins/qi-addons-for-elementor/inc/plugins/elementor/assets/js/elementor.js?ver=6.6.2
+File Name: C:\Downloaded Web Sites\dukfuks.com\wp-content\plugins\qi-addons-for-elementor\inc\plugins\elementor\assets\js\elementor.js
+Content Type: application/x-javascript
+
+Uri: https://dukfuks.com/wp-content/plugins/qode-essential-addons/assets/css/main.min.css?ver=1.6.2
+File Name: C:\Downloaded Web Sites\dukfuks.com\wp-content\plugins\qode-essential-addons\assets\css\main.min.css
+Content Type: text/css
+
+Uri: https://dukfuks.com/wp-content/plugins/qode-essential-addons/assets/img/side-area-bg.png
+File Name: C:\Downloaded Web Sites\dukfuks.com\wp-content\plugins\qode-essential-addons\assets\img\side-area-bg.png
+Content Type: image/png
+
+Uri: https://dukfuks.com/wp-content/plugins/qode-essential-addons/assets/js/main.min.js?ver=1.6.2
+File Name: C:\Downloaded Web Sites\dukfuks.com\wp-content\plugins\qode-essential-addons\assets\js\main.min.js
+Content Type: application/x-javascript
+
+Uri: https://dukfuks.com/wp-content/plugins/qode-essential-addons/assets/plugins/modernizr/modernizr.js?ver=6.6.2
+File Name: C:\Downloaded Web Sites\dukfuks.com\wp-content\plugins\qode-essential-addons\assets\plugins\modernizr\modernizr.js
+Content Type: application/x-javascript
+
+Uri: https://dukfuks.com/wp-content/plugins/qode-essential-addons/inc/plugins/elementor/assets/css/elementor.min.css?ver=6.6.2
+File Name: C:\Downloaded Web Sites\dukfuks.com\wp-content\plugins\qode-essential-addons\inc\plugins\elementor\assets\css\elementor.min.css
+Content Type: text/css
+
+Uri: https://dukfuks.com/wp-content/plugins/qode-essential-addons/inc/plugins/elementor/assets/js/elementor.js?ver=6.6.2
+File Name: C:\Downloaded Web Sites\dukfuks.com\wp-content\plugins\qode-essential-addons\inc\plugins\elementor\assets\js\elementor.js
+Content Type: application/x-javascript
+
+Uri: https://dukfuks.com/wp-content/themes/qi/assets/css/grid.min.css?ver=1.3
+File Name: C:\Downloaded Web Sites\dukfuks.com\wp-content\themes\qi\assets\css\grid.min.css
+Content Type: text/css
+
+Uri: https://dukfuks.com/wp-content/themes/qi/assets/css/main.min.css?ver=1.3
+File Name: C:\Downloaded Web Sites\dukfuks.com\wp-content\themes\qi\assets\css\main.min.css
+Content Type: text/css
+
+Uri: https://dukfuks.com/wp-content/themes/qi/assets/js/main.min.js?ver=1.3
+File Name: C:\Downloaded Web Sites\dukfuks.com\wp-content\themes\qi\assets\js\main.min.js
+Content Type: application/x-javascript
+
+Uri: https://dukfuks.com/wp-content/themes/qi/style.css?ver=1.3
+File Name: C:\Downloaded Web Sites\dukfuks.com\wp-content\themes\qi\style.css
+Content Type: text/css
+
+Uri: https://dukfuks.com/wp-content/uploads/2024/06/282a4708-f430-4dfe-8f70-c36175dc8fa8-min-1024x1024.jpg
+File Name: C:\Downloaded Web Sites\dukfuks.com\wp-content\uploads\2024\06\282a4708-f430-4dfe-8f70-c36175dc8fa8-min-1024x1024.jpg
+Content Type: image/jpeg
+
+Uri: https://dukfuks.com/wp-content/uploads/2024/06/282a4708-f430-4dfe-8f70-c36175dc8fa8-min-150x150.jpg
+File Name: C:\Downloaded Web Sites\dukfuks.com\wp-content\uploads\2024\06\282a4708-f430-4dfe-8f70-c36175dc8fa8-min-150x150.jpg
+Content Type: image/jpeg
+
+Uri: https://dukfuks.com/wp-content/uploads/2024/06/282a4708-f430-4dfe-8f70-c36175dc8fa8-min-300x300.jpg
+File Name: C:\Downloaded Web Sites\dukfuks.com\wp-content\uploads\2024\06\282a4708-f430-4dfe-8f70-c36175dc8fa8-min-300x300.jpg
+Content Type: image/jpeg
+
+Uri: https://dukfuks.com/wp-content/uploads/2024/06/282a4708-f430-4dfe-8f70-c36175dc8fa8-min-650x650.jpg
+File Name: C:\Downloaded Web Sites\dukfuks.com\wp-content\uploads\2024\06\282a4708-f430-4dfe-8f70-c36175dc8fa8-min-650x650.jpg
+Content Type: image/jpeg
+
+Uri: https://dukfuks.com/wp-content/uploads/2024/06/282a4708-f430-4dfe-8f70-c36175dc8fa8-min-768x768.jpg
+File Name: C:\Downloaded Web Sites\dukfuks.com\wp-content\uploads\2024\06\282a4708-f430-4dfe-8f70-c36175dc8fa8-min-768x768.jpg
+Content Type: image/jpeg
+
+Uri: https://dukfuks.com/wp-content/uploads/2024/06/282a4708-f430-4dfe-8f70-c36175dc8fa8-min.jpg
+File Name: C:\Downloaded Web Sites\dukfuks.com\wp-content\uploads\2024\06\282a4708-f430-4dfe-8f70-c36175dc8fa8-min.jpg
+Content Type: image/jpeg
+
+Uri: https://dukfuks.com/wp-content/uploads/2024/06/2b2d1e8f-c0e9-4e3e-a544-84924edf0a7f-min-1024x1024.jpg
+File Name: C:\Downloaded Web Sites\dukfuks.com\wp-content\uploads\2024\06\2b2d1e8f-c0e9-4e3e-a544-84924edf0a7f-min-1024x1024.jpg
+Content Type: image/jpeg
+
+Uri: https://dukfuks.com/wp-content/uploads/2024/06/2b2d1e8f-c0e9-4e3e-a544-84924edf0a7f-min-150x150.jpg
+File Name: C:\Downloaded Web Sites\dukfuks.com\wp-content\uploads\2024\06\2b2d1e8f-c0e9-4e3e-a544-84924edf0a7f-min-150x150.jpg
+Content Type: image/jpeg
+
+Uri: https://dukfuks.com/wp-content/uploads/2024/06/2b2d1e8f-c0e9-4e3e-a544-84924edf0a7f-min-300x300.jpg
+File Name: C:\Downloaded Web Sites\dukfuks.com\wp-content\uploads\2024\06\2b2d1e8f-c0e9-4e3e-a544-84924edf0a7f-min-300x300.jpg
+Content Type: image/jpeg
+
+Uri: https://dukfuks.com/wp-content/uploads/2024/06/2b2d1e8f-c0e9-4e3e-a544-84924edf0a7f-min-650x650.jpg
+File Name: C:\Downloaded Web Sites\dukfuks.com\wp-content\uploads\2024\06\2b2d1e8f-c0e9-4e3e-a544-84924edf0a7f-min-650x650.jpg
+Content Type: image/jpeg
+
+Uri: https://dukfuks.com/wp-content/uploads/2024/06/2b2d1e8f-c0e9-4e3e-a544-84924edf0a7f-min-768x768.jpg
+File Name: C:\Downloaded Web Sites\dukfuks.com\wp-content\uploads\2024\06\2b2d1e8f-c0e9-4e3e-a544-84924edf0a7f-min-768x768.jpg
+Content Type: image/jpeg
+
+Uri: https://dukfuks.com/wp-content/uploads/2024/06/2b2d1e8f-c0e9-4e3e-a544-84924edf0a7f-min.jpg
+File Name: C:\Downloaded Web Sites\dukfuks.com\wp-content\uploads\2024\06\2b2d1e8f-c0e9-4e3e-a544-84924edf0a7f-min.jpg
+Content Type: image/jpeg
+
+Uri: https://dukfuks.com/wp-content/uploads/2024/06/3ca78111-8cb5-4de9-8bb4-54f464421ff5-min-1024x1024.jpg
+File Name: C:\Downloaded Web Sites\dukfuks.com\wp-content\uploads\2024\06\3ca78111-8cb5-4de9-8bb4-54f464421ff5-min-1024x1024.jpg
+Content Type: image/jpeg
+
+Uri: https://dukfuks.com/wp-content/uploads/2024/06/3ca78111-8cb5-4de9-8bb4-54f464421ff5-min-150x150.jpg
+File Name: C:\Downloaded Web Sites\dukfuks.com\wp-content\uploads\2024\06\3ca78111-8cb5-4de9-8bb4-54f464421ff5-min-150x150.jpg
+Content Type: image/jpeg
+
+Uri: https://dukfuks.com/wp-content/uploads/2024/06/3ca78111-8cb5-4de9-8bb4-54f464421ff5-min-300x300.jpg
+File Name: C:\Downloaded Web Sites\dukfuks.com\wp-content\uploads\2024\06\3ca78111-8cb5-4de9-8bb4-54f464421ff5-min-300x300.jpg
+Content Type: image/jpeg
+
+Uri: https://dukfuks.com/wp-content/uploads/2024/06/3ca78111-8cb5-4de9-8bb4-54f464421ff5-min-650x650.jpg
+File Name: C:\Downloaded Web Sites\dukfuks.com\wp-content\uploads\2024\06\3ca78111-8cb5-4de9-8bb4-54f464421ff5-min-650x650.jpg
+Content Type: image/jpeg
+
+Uri: https://dukfuks.com/wp-content/uploads/2024/06/3ca78111-8cb5-4de9-8bb4-54f464421ff5-min-768x768.jpg
+File Name: C:\Downloaded Web Sites\dukfuks.com\wp-content\uploads\2024\06\3ca78111-8cb5-4de9-8bb4-54f464421ff5-min-768x768.jpg
+Content Type: image/jpeg
+
+Uri: https://dukfuks.com/wp-content/uploads/2024/06/3ca78111-8cb5-4de9-8bb4-54f464421ff5-min.jpg
+File Name: C:\Downloaded Web Sites\dukfuks.com\wp-content\uploads\2024\06\3ca78111-8cb5-4de9-8bb4-54f464421ff5-min.jpg
+Content Type: image/jpeg
+
+Uri: https://dukfuks.com/wp-content/uploads/2024/06/3deb70fd-8a39-4fd9-b083-222515bc0ee1-min-1024x944.jpg
+File Name: C:\Downloaded Web Sites\dukfuks.com\wp-content\uploads\2024\06\3deb70fd-8a39-4fd9-b083-222515bc0ee1-min-1024x944.jpg
+Content Type: image/jpeg
+
+Uri: https://dukfuks.com/wp-content/uploads/2024/06/3deb70fd-8a39-4fd9-b083-222515bc0ee1-min-300x277.jpg
+File Name: C:\Downloaded Web Sites\dukfuks.com\wp-content\uploads\2024\06\3deb70fd-8a39-4fd9-b083-222515bc0ee1-min-300x277.jpg
+Content Type: image/jpeg
+
+Uri: https://dukfuks.com/wp-content/uploads/2024/06/3deb70fd-8a39-4fd9-b083-222515bc0ee1-min-768x708.jpg
+File Name: C:\Downloaded Web Sites\dukfuks.com\wp-content\uploads\2024\06\3deb70fd-8a39-4fd9-b083-222515bc0ee1-min-768x708.jpg
+Content Type: image/jpeg
+
+Uri: https://dukfuks.com/wp-content/uploads/2024/06/3deb70fd-8a39-4fd9-b083-222515bc0ee1-min.jpg
+File Name: C:\Downloaded Web Sites\dukfuks.com\wp-content\uploads\2024\06\3deb70fd-8a39-4fd9-b083-222515bc0ee1-min.jpg
+Content Type: image/jpeg
+
+Uri: https://dukfuks.com/wp-content/uploads/2024/06/6c3c588c-3f78-4ba7-b228-f97e5d0b8443-min-1024x597.jpg
+File Name: C:\Downloaded Web Sites\dukfuks.com\wp-content\uploads\2024\06\6c3c588c-3f78-4ba7-b228-f97e5d0b8443-min-1024x597.jpg
+Content Type: image/jpeg
+
+Uri: https://dukfuks.com/wp-content/uploads/2024/06/6c3c588c-3f78-4ba7-b228-f97e5d0b8443-min-300x175.jpg
+File Name: C:\Downloaded Web Sites\dukfuks.com\wp-content\uploads\2024\06\6c3c588c-3f78-4ba7-b228-f97e5d0b8443-min-300x175.jpg
+Content Type: image/jpeg
+
+Uri: https://dukfuks.com/wp-content/uploads/2024/06/6c3c588c-3f78-4ba7-b228-f97e5d0b8443-min-768x448.jpg
+File Name: C:\Downloaded Web Sites\dukfuks.com\wp-content\uploads\2024\06\6c3c588c-3f78-4ba7-b228-f97e5d0b8443-min-768x448.jpg
+Content Type: image/jpeg
+
+Uri: https://dukfuks.com/wp-content/uploads/2024/06/6c3c588c-3f78-4ba7-b228-f97e5d0b8443-min.jpg
+File Name: C:\Downloaded Web Sites\dukfuks.com\wp-content\uploads\2024\06\6c3c588c-3f78-4ba7-b228-f97e5d0b8443-min.jpg
+Content Type: image/jpeg
+
+Uri: https://dukfuks.com/wp-content/uploads/2024/06/6e464484-a979-4420-8763-81187db36415-min-1024x1024.jpg
+File Name: C:\Downloaded Web Sites\dukfuks.com\wp-content\uploads\2024\06\6e464484-a979-4420-8763-81187db36415-min-1024x1024.jpg
+Content Type: image/jpeg
+
+Uri: https://dukfuks.com/wp-content/uploads/2024/06/6e464484-a979-4420-8763-81187db36415-min-150x150.jpg
+File Name: C:\Downloaded Web Sites\dukfuks.com\wp-content\uploads\2024\06\6e464484-a979-4420-8763-81187db36415-min-150x150.jpg
+Content Type: image/jpeg
+
+Uri: https://dukfuks.com/wp-content/uploads/2024/06/6e464484-a979-4420-8763-81187db36415-min-300x300.jpg
+File Name: C:\Downloaded Web Sites\dukfuks.com\wp-content\uploads\2024\06\6e464484-a979-4420-8763-81187db36415-min-300x300.jpg
+Content Type: image/jpeg
+
+Uri: https://dukfuks.com/wp-content/uploads/2024/06/6e464484-a979-4420-8763-81187db36415-min-650x650.jpg
+File Name: C:\Downloaded Web Sites\dukfuks.com\wp-content\uploads\2024\06\6e464484-a979-4420-8763-81187db36415-min-650x650.jpg
+Content Type: image/jpeg
+
+Uri: https://dukfuks.com/wp-content/uploads/2024/06/6e464484-a979-4420-8763-81187db36415-min-768x768.jpg
+File Name: C:\Downloaded Web Sites\dukfuks.com\wp-content\uploads\2024\06\6e464484-a979-4420-8763-81187db36415-min-768x768.jpg
+Content Type: image/jpeg
+
+Uri: https://dukfuks.com/wp-content/uploads/2024/06/6e464484-a979-4420-8763-81187db36415-min.jpg
+File Name: C:\Downloaded Web Sites\dukfuks.com\wp-content\uploads\2024\06\6e464484-a979-4420-8763-81187db36415-min.jpg
+Content Type: image/jpeg
+
+Uri: https://dukfuks.com/wp-content/uploads/2024/06/760c8819-5a3a-4ebe-b2ca-6b84158c7ca4-min-1024x1024.jpg
+File Name: C:\Downloaded Web Sites\dukfuks.com\wp-content\uploads\2024\06\760c8819-5a3a-4ebe-b2ca-6b84158c7ca4-min-1024x1024.jpg
+Content Type: image/jpeg
+
+Uri: https://dukfuks.com/wp-content/uploads/2024/06/760c8819-5a3a-4ebe-b2ca-6b84158c7ca4-min-150x150.jpg
+File Name: C:\Downloaded Web Sites\dukfuks.com\wp-content\uploads\2024\06\760c8819-5a3a-4ebe-b2ca-6b84158c7ca4-min-150x150.jpg
+Content Type: image/jpeg
+
+Uri: https://dukfuks.com/wp-content/uploads/2024/06/760c8819-5a3a-4ebe-b2ca-6b84158c7ca4-min-300x300.jpg
+File Name: C:\Downloaded Web Sites\dukfuks.com\wp-content\uploads\2024\06\760c8819-5a3a-4ebe-b2ca-6b84158c7ca4-min-300x300.jpg
+Content Type: image/jpeg
+
+Uri: https://dukfuks.com/wp-content/uploads/2024/06/760c8819-5a3a-4ebe-b2ca-6b84158c7ca4-min-650x650.jpg
+File Name: C:\Downloaded Web Sites\dukfuks.com\wp-content\uploads\2024\06\760c8819-5a3a-4ebe-b2ca-6b84158c7ca4-min-650x650.jpg
+Content Type: image/jpeg
+
+Uri: https://dukfuks.com/wp-content/uploads/2024/06/760c8819-5a3a-4ebe-b2ca-6b84158c7ca4-min-768x768.jpg
+File Name: C:\Downloaded Web Sites\dukfuks.com\wp-content\uploads\2024\06\760c8819-5a3a-4ebe-b2ca-6b84158c7ca4-min-768x768.jpg
+Content Type: image/jpeg
+
+Uri: https://dukfuks.com/wp-content/uploads/2024/06/760c8819-5a3a-4ebe-b2ca-6b84158c7ca4-min.jpg
+File Name: C:\Downloaded Web Sites\dukfuks.com\wp-content\uploads\2024\06\760c8819-5a3a-4ebe-b2ca-6b84158c7ca4-min.jpg
+Content Type: image/jpeg
+
+Uri: https://dukfuks.com/wp-content/uploads/2024/06/7fe27c7c-f05d-47c3-b47d-7cc12028369c-min-1024x1024.jpg
+File Name: C:\Downloaded Web Sites\dukfuks.com\wp-content\uploads\2024\06\7fe27c7c-f05d-47c3-b47d-7cc12028369c-min-1024x1024.jpg
+Content Type: image/jpeg
+
+Uri: https://dukfuks.com/wp-content/uploads/2024/06/7fe27c7c-f05d-47c3-b47d-7cc12028369c-min-150x150.jpg
+File Name: C:\Downloaded Web Sites\dukfuks.com\wp-content\uploads\2024\06\7fe27c7c-f05d-47c3-b47d-7cc12028369c-min-150x150.jpg
+Content Type: image/jpeg
+
+Uri: https://dukfuks.com/wp-content/uploads/2024/06/7fe27c7c-f05d-47c3-b47d-7cc12028369c-min-300x300.jpg
+File Name: C:\Downloaded Web Sites\dukfuks.com\wp-content\uploads\2024\06\7fe27c7c-f05d-47c3-b47d-7cc12028369c-min-300x300.jpg
+Content Type: image/jpeg
+
+Uri: https://dukfuks.com/wp-content/uploads/2024/06/7fe27c7c-f05d-47c3-b47d-7cc12028369c-min-650x650.jpg
+File Name: C:\Downloaded Web Sites\dukfuks.com\wp-content\uploads\2024\06\7fe27c7c-f05d-47c3-b47d-7cc12028369c-min-650x650.jpg
+Content Type: image/jpeg
+
+Uri: https://dukfuks.com/wp-content/uploads/2024/06/7fe27c7c-f05d-47c3-b47d-7cc12028369c-min-768x768.jpg
+File Name: C:\Downloaded Web Sites\dukfuks.com\wp-content\uploads\2024\06\7fe27c7c-f05d-47c3-b47d-7cc12028369c-min-768x768.jpg
+Content Type: image/jpeg
+
+Uri: https://dukfuks.com/wp-content/uploads/2024/06/7fe27c7c-f05d-47c3-b47d-7cc12028369c-min.jpg
+File Name: C:\Downloaded Web Sites\dukfuks.com\wp-content\uploads\2024\06\7fe27c7c-f05d-47c3-b47d-7cc12028369c-min.jpg
+Content Type: image/jpeg
+
+Uri: https://dukfuks.com/wp-content/uploads/2024/06/841b9a95-3239-4fce-a8b9-c2ae58831101-min-1024x1024.jpg
+File Name: C:\Downloaded Web Sites\dukfuks.com\wp-content\uploads\2024\06\841b9a95-3239-4fce-a8b9-c2ae58831101-min-1024x1024.jpg
+Content Type: image/jpeg
+
+Uri: https://dukfuks.com/wp-content/uploads/2024/06/841b9a95-3239-4fce-a8b9-c2ae58831101-min-150x150.jpg
+File Name: C:\Downloaded Web Sites\dukfuks.com\wp-content\uploads\2024\06\841b9a95-3239-4fce-a8b9-c2ae58831101-min-150x150.jpg
+Content Type: image/jpeg
+
+Uri: https://dukfuks.com/wp-content/uploads/2024/06/841b9a95-3239-4fce-a8b9-c2ae58831101-min-300x300.jpg
+File Name: C:\Downloaded Web Sites\dukfuks.com\wp-content\uploads\2024\06\841b9a95-3239-4fce-a8b9-c2ae58831101-min-300x300.jpg
+Content Type: image/jpeg
+
+Uri: https://dukfuks.com/wp-content/uploads/2024/06/841b9a95-3239-4fce-a8b9-c2ae58831101-min-650x650.jpg
+File Name: C:\Downloaded Web Sites\dukfuks.com\wp-content\uploads\2024\06\841b9a95-3239-4fce-a8b9-c2ae58831101-min-650x650.jpg
+Content Type: image/jpeg
+
+Uri: https://dukfuks.com/wp-content/uploads/2024/06/841b9a95-3239-4fce-a8b9-c2ae58831101-min-768x768.jpg
+File Name: C:\Downloaded Web Sites\dukfuks.com\wp-content\uploads\2024\06\841b9a95-3239-4fce-a8b9-c2ae58831101-min-768x768.jpg
+Content Type: image/jpeg
+
+Uri: https://dukfuks.com/wp-content/uploads/2024/06/841b9a95-3239-4fce-a8b9-c2ae58831101-min.jpg
+File Name: C:\Downloaded Web Sites\dukfuks.com\wp-content\uploads\2024\06\841b9a95-3239-4fce-a8b9-c2ae58831101-min.jpg
+Content Type: image/jpeg
+
+Uri: https://dukfuks.com/wp-content/uploads/2024/06/865fe1b2-c342-46e7-b9e5-1aecf469f5ce-min-150x150.jpg
+File Name: C:\Downloaded Web Sites\dukfuks.com\wp-content\uploads\2024\06\865fe1b2-c342-46e7-b9e5-1aecf469f5ce-min-150x150.jpg
+Content Type: image/jpeg
+
+Uri: https://dukfuks.com/wp-content/uploads/2024/06/865fe1b2-c342-46e7-b9e5-1aecf469f5ce-min-300x300.jpg
+File Name: C:\Downloaded Web Sites\dukfuks.com\wp-content\uploads\2024\06\865fe1b2-c342-46e7-b9e5-1aecf469f5ce-min-300x300.jpg
+Content Type: image/jpeg
+
+Uri: https://dukfuks.com/wp-content/uploads/2024/06/865fe1b2-c342-46e7-b9e5-1aecf469f5ce-min.jpg
+File Name: C:\Downloaded Web Sites\dukfuks.com\wp-content\uploads\2024\06\865fe1b2-c342-46e7-b9e5-1aecf469f5ce-min.jpg
+Content Type: image/jpeg
+
+Uri: https://dukfuks.com/wp-content/uploads/2024/06/b397a30d-5dde-42f9-88cd-5f78af0c6d2c-min-1024x1024.jpg
+File Name: C:\Downloaded Web Sites\dukfuks.com\wp-content\uploads\2024\06\b397a30d-5dde-42f9-88cd-5f78af0c6d2c-min-1024x1024.jpg
+Content Type: image/jpeg
+
+Uri: https://dukfuks.com/wp-content/uploads/2024/06/b397a30d-5dde-42f9-88cd-5f78af0c6d2c-min-150x150.jpg
+File Name: C:\Downloaded Web Sites\dukfuks.com\wp-content\uploads\2024\06\b397a30d-5dde-42f9-88cd-5f78af0c6d2c-min-150x150.jpg
+Content Type: image/jpeg
+
+Uri: https://dukfuks.com/wp-content/uploads/2024/06/b397a30d-5dde-42f9-88cd-5f78af0c6d2c-min-300x300.jpg
+File Name: C:\Downloaded Web Sites\dukfuks.com\wp-content\uploads\2024\06\b397a30d-5dde-42f9-88cd-5f78af0c6d2c-min-300x300.jpg
+Content Type: image/jpeg
+
+Uri: https://dukfuks.com/wp-content/uploads/2024/06/b397a30d-5dde-42f9-88cd-5f78af0c6d2c-min-650x650.jpg
+File Name: C:\Downloaded Web Sites\dukfuks.com\wp-content\uploads\2024\06\b397a30d-5dde-42f9-88cd-5f78af0c6d2c-min-650x650.jpg
+Content Type: image/jpeg
+
+Uri: https://dukfuks.com/wp-content/uploads/2024/06/b397a30d-5dde-42f9-88cd-5f78af0c6d2c-min-768x768.jpg
+File Name: C:\Downloaded Web Sites\dukfuks.com\wp-content\uploads\2024\06\b397a30d-5dde-42f9-88cd-5f78af0c6d2c-min-768x768.jpg
+Content Type: image/jpeg
+
+Uri: https://dukfuks.com/wp-content/uploads/2024/06/b397a30d-5dde-42f9-88cd-5f78af0c6d2c-min.jpg
+File Name: C:\Downloaded Web Sites\dukfuks.com\wp-content\uploads\2024\06\b397a30d-5dde-42f9-88cd-5f78af0c6d2c-min.jpg
+Content Type: image/jpeg
+
+Uri: https://dukfuks.com/wp-content/uploads/2024/06/cce55af1-2ca4-411b-bd89-490b42b3c8be-min-1024x1024.jpg
+File Name: C:\Downloaded Web Sites\dukfuks.com\wp-content\uploads\2024\06\cce55af1-2ca4-411b-bd89-490b42b3c8be-min-1024x1024.jpg
+Content Type: image/jpeg
+
+Uri: https://dukfuks.com/wp-content/uploads/2024/06/cce55af1-2ca4-411b-bd89-490b42b3c8be-min-150x150.jpg
+File Name: C:\Downloaded Web Sites\dukfuks.com\wp-content\uploads\2024\06\cce55af1-2ca4-411b-bd89-490b42b3c8be-min-150x150.jpg
+Content Type: image/jpeg
+
+Uri: https://dukfuks.com/wp-content/uploads/2024/06/cce55af1-2ca4-411b-bd89-490b42b3c8be-min-300x300.jpg
+File Name: C:\Downloaded Web Sites\dukfuks.com\wp-content\uploads\2024\06\cce55af1-2ca4-411b-bd89-490b42b3c8be-min-300x300.jpg
+Content Type: image/jpeg
+
+Uri: https://dukfuks.com/wp-content/uploads/2024/06/cce55af1-2ca4-411b-bd89-490b42b3c8be-min-650x650.jpg
+File Name: C:\Downloaded Web Sites\dukfuks.com\wp-content\uploads\2024\06\cce55af1-2ca4-411b-bd89-490b42b3c8be-min-650x650.jpg
+Content Type: image/jpeg
+
+Uri: https://dukfuks.com/wp-content/uploads/2024/06/cce55af1-2ca4-411b-bd89-490b42b3c8be-min-768x768.jpg
+File Name: C:\Downloaded Web Sites\dukfuks.com\wp-content\uploads\2024\06\cce55af1-2ca4-411b-bd89-490b42b3c8be-min-768x768.jpg
+Content Type: image/jpeg
+
+Uri: https://dukfuks.com/wp-content/uploads/2024/06/cce55af1-2ca4-411b-bd89-490b42b3c8be-min.jpg
+File Name: C:\Downloaded Web Sites\dukfuks.com\wp-content\uploads\2024\06\cce55af1-2ca4-411b-bd89-490b42b3c8be-min.jpg
+Content Type: image/jpeg
+
+Uri: https://dukfuks.com/wp-content/uploads/2024/06/ce5c0c2f-29c1-4175-9806-c0a612527523-min-1024x1024.jpg
+File Name: C:\Downloaded Web Sites\dukfuks.com\wp-content\uploads\2024\06\ce5c0c2f-29c1-4175-9806-c0a612527523-min-1024x1024.jpg
+Content Type: image/jpeg
+
+Uri: https://dukfuks.com/wp-content/uploads/2024/06/ce5c0c2f-29c1-4175-9806-c0a612527523-min-150x150.jpg
+File Name: C:\Downloaded Web Sites\dukfuks.com\wp-content\uploads\2024\06\ce5c0c2f-29c1-4175-9806-c0a612527523-min-150x150.jpg
+Content Type: image/jpeg
+
+Uri: https://dukfuks.com/wp-content/uploads/2024/06/ce5c0c2f-29c1-4175-9806-c0a612527523-min-300x300.jpg
+File Name: C:\Downloaded Web Sites\dukfuks.com\wp-content\uploads\2024\06\ce5c0c2f-29c1-4175-9806-c0a612527523-min-300x300.jpg
+Content Type: image/jpeg
+
+Uri: https://dukfuks.com/wp-content/uploads/2024/06/ce5c0c2f-29c1-4175-9806-c0a612527523-min-650x650.jpg
+File Name: C:\Downloaded Web Sites\dukfuks.com\wp-content\uploads\2024\06\ce5c0c2f-29c1-4175-9806-c0a612527523-min-650x650.jpg
+Content Type: image/jpeg
+
+Uri: https://dukfuks.com/wp-content/uploads/2024/06/ce5c0c2f-29c1-4175-9806-c0a612527523-min-768x768.jpg
+File Name: C:\Downloaded Web Sites\dukfuks.com\wp-content\uploads\2024\06\ce5c0c2f-29c1-4175-9806-c0a612527523-min-768x768.jpg
+Content Type: image/jpeg
+
+Uri: https://dukfuks.com/wp-content/uploads/2024/06/ce5c0c2f-29c1-4175-9806-c0a612527523-min.jpg
+File Name: C:\Downloaded Web Sites\dukfuks.com\wp-content\uploads\2024\06\ce5c0c2f-29c1-4175-9806-c0a612527523-min.jpg
+Content Type: image/jpeg
+
+Uri: https://dukfuks.com/wp-content/uploads/2024/06/coingecko-duk-150x150.png
+File Name: C:\Downloaded Web Sites\dukfuks.com\wp-content\uploads\2024\06\coingecko-duk-150x150.png
+Content Type: image/png
+
+Uri: https://dukfuks.com/wp-content/uploads/2024/06/coingecko-duk.png
+File Name: C:\Downloaded Web Sites\dukfuks.com\wp-content\uploads\2024\06\coingecko-duk.png
+Content Type: image/png
+
+Uri: https://dukfuks.com/wp-content/uploads/2024/06/cropped-duk-icon-180x180.png
+File Name: C:\Downloaded Web Sites\dukfuks.com\wp-content\uploads\2024\06\cropped-duk-icon-180x180.png
+Content Type: image/png
+
+Uri: https://dukfuks.com/wp-content/uploads/2024/06/cropped-duk-icon-192x192.png
+File Name: C:\Downloaded Web Sites\dukfuks.com\wp-content\uploads\2024\06\cropped-duk-icon-192x192.png
+Content Type: image/png
+
+Uri: https://dukfuks.com/wp-content/uploads/2024/06/cropped-duk-icon-32x32.png
+File Name: C:\Downloaded Web Sites\dukfuks.com\wp-content\uploads\2024\06\cropped-duk-icon-32x32.png
+Content Type: image/png
+
+Uri: https://dukfuks.com/wp-content/uploads/2024/06/d527982c-00fc-4bd0-a938-1b4019b2bc26-min-1024x770.jpg
+File Name: C:\Downloaded Web Sites\dukfuks.com\wp-content\uploads\2024\06\d527982c-00fc-4bd0-a938-1b4019b2bc26-min-1024x770.jpg
+Content Type: image/jpeg
+
+Uri: https://dukfuks.com/wp-content/uploads/2024/06/d527982c-00fc-4bd0-a938-1b4019b2bc26-min-300x225.jpg
+File Name: C:\Downloaded Web Sites\dukfuks.com\wp-content\uploads\2024\06\d527982c-00fc-4bd0-a938-1b4019b2bc26-min-300x225.jpg
+Content Type: image/jpeg
+
+Uri: https://dukfuks.com/wp-content/uploads/2024/06/d527982c-00fc-4bd0-a938-1b4019b2bc26-min-768x577.jpg
+File Name: C:\Downloaded Web Sites\dukfuks.com\wp-content\uploads\2024\06\d527982c-00fc-4bd0-a938-1b4019b2bc26-min-768x577.jpg
+Content Type: image/jpeg
+
+Uri: https://dukfuks.com/wp-content/uploads/2024/06/d527982c-00fc-4bd0-a938-1b4019b2bc26-min.jpg
+File Name: C:\Downloaded Web Sites\dukfuks.com\wp-content\uploads\2024\06\d527982c-00fc-4bd0-a938-1b4019b2bc26-min.jpg
+Content Type: image/jpeg
+
+Uri: https://dukfuks.com/wp-content/uploads/2024/06/dexscreener-duk-150x150.png
+File Name: C:\Downloaded Web Sites\dukfuks.com\wp-content\uploads\2024\06\dexscreener-duk-150x150.png
+Content Type: image/png
+
+Uri: https://dukfuks.com/wp-content/uploads/2024/06/dexscreener-duk.png
+File Name: C:\Downloaded Web Sites\dukfuks.com\wp-content\uploads\2024\06\dexscreener-duk.png
+Content Type: image/png
+
+Uri: https://dukfuks.com/wp-content/uploads/2024/06/duk-bg-overlay.png
+File Name: C:\Downloaded Web Sites\dukfuks.com\wp-content\uploads\2024\06\duk-bg-overlay.png
+Content Type: image/png
+
+Uri: https://dukfuks.com/wp-content/uploads/2024/06/duk-knife-flying.png
+File Name: C:\Downloaded Web Sites\dukfuks.com\wp-content\uploads\2024\06\duk-knife-flying.png
+Content Type: image/png
+
+Uri: https://dukfuks.com/wp-content/uploads/2024/06/duk-swinging-108x300.png
+File Name: C:\Downloaded Web Sites\dukfuks.com\wp-content\uploads\2024\06\duk-swinging-108x300.png
+Content Type: image/png
+
+Uri: https://dukfuks.com/wp-content/uploads/2024/06/duk-swinging.png
+File Name: C:\Downloaded Web Sites\dukfuks.com\wp-content\uploads\2024\06\duk-swinging.png
+Content Type: image/png
+
+Uri: https://dukfuks.com/wp-content/uploads/2024/06/e2ad1810-02fb-4833-82ed-89b649f53a16-min-150x150.jpg
+File Name: C:\Downloaded Web Sites\dukfuks.com\wp-content\uploads\2024\06\e2ad1810-02fb-4833-82ed-89b649f53a16-min-150x150.jpg
+Content Type: image/jpeg
+
+Uri: https://dukfuks.com/wp-content/uploads/2024/06/e2ad1810-02fb-4833-82ed-89b649f53a16-min-300x300.jpg
+File Name: C:\Downloaded Web Sites\dukfuks.com\wp-content\uploads\2024\06\e2ad1810-02fb-4833-82ed-89b649f53a16-min-300x300.jpg
+Content Type: image/jpeg
+
+Uri: https://dukfuks.com/wp-content/uploads/2024/06/e2ad1810-02fb-4833-82ed-89b649f53a16-min.jpg
+File Name: C:\Downloaded Web Sites\dukfuks.com\wp-content\uploads\2024\06\e2ad1810-02fb-4833-82ed-89b649f53a16-min.jpg
+Content Type: image/jpeg
+
+Uri: https://dukfuks.com/wp-content/uploads/2024/06/going-up-lads.png
+File Name: C:\Downloaded Web Sites\dukfuks.com\wp-content\uploads\2024\06\going-up-lads.png
+Content Type: image/png
+
+Uri: https://dukfuks.com/wp-content/uploads/2024/06/instagram-duk-150x150.png
+File Name: C:\Downloaded Web Sites\dukfuks.com\wp-content\uploads\2024\06\instagram-duk-150x150.png
+Content Type: image/png
+
+Uri: https://dukfuks.com/wp-content/uploads/2024/06/instagram-duk.png
+File Name: C:\Downloaded Web Sites\dukfuks.com\wp-content\uploads\2024\06\instagram-duk.png
+Content Type: image/png
+
+Uri: https://dukfuks.com/wp-content/uploads/2024/06/jupiter-duk-150x150.png
+File Name: C:\Downloaded Web Sites\dukfuks.com\wp-content\uploads\2024\06\jupiter-duk-150x150.png
+Content Type: image/png
+
+Uri: https://dukfuks.com/wp-content/uploads/2024/06/jupiter-duk.png
+File Name: C:\Downloaded Web Sites\dukfuks.com\wp-content\uploads\2024\06\jupiter-duk.png
+Content Type: image/png
+
+Uri: https://dukfuks.com/wp-content/uploads/2024/06/telegram-duk-150x150.png
+File Name: C:\Downloaded Web Sites\dukfuks.com\wp-content\uploads\2024\06\telegram-duk-150x150.png
+Content Type: image/png
+
+Uri: https://dukfuks.com/wp-content/uploads/2024/06/telegram-duk.png
+File Name: C:\Downloaded Web Sites\dukfuks.com\wp-content\uploads\2024\06\telegram-duk.png
+Content Type: image/png
+
+Uri: https://dukfuks.com/wp-content/uploads/2024/06/x-twitter-duk-150x150.png
+File Name: C:\Downloaded Web Sites\dukfuks.com\wp-content\uploads\2024\06\x-twitter-duk-150x150.png
+Content Type: image/png
+
+Uri: https://dukfuks.com/wp-content/uploads/2024/06/x-twitter-duk.png
+File Name: C:\Downloaded Web Sites\dukfuks.com\wp-content\uploads\2024\06\x-twitter-duk.png
+Content Type: image/png
+
+Uri: https://dukfuks.com/wp-content/uploads/elementor/css/custom-frontend-lite.min.css?ver=1723291210
+File Name: C:\Downloaded Web Sites\dukfuks.com\wp-content\uploads\elementor\css\custom-frontend-lite.min.css
+Content Type: text/css
+
+Uri: https://dukfuks.com/wp-content/uploads/elementor/css/custom-pro-frontend-lite.min.css?ver=1723291210
+File Name: C:\Downloaded Web Sites\dukfuks.com\wp-content\uploads\elementor\css\custom-pro-frontend-lite.min.css
+Content Type: text/css
+
+Uri: https://dukfuks.com/wp-content/uploads/elementor/css/global.css?ver=1723291211
+File Name: C:\Downloaded Web Sites\dukfuks.com\wp-content\uploads\elementor\css\global.css
+Content Type: text/css
+
+Uri: https://dukfuks.com/wp-content/uploads/elementor/css/post-1672.css?ver=1731262915
+File Name: C:\Downloaded Web Sites\dukfuks.com\wp-content\uploads\elementor\css\post-1672.css
+Content Type: text/css
+
+Uri: https://dukfuks.com/wp-content/uploads/elementor/css/post-7.css?ver=1723291210
+File Name: C:\Downloaded Web Sites\dukfuks.com\wp-content\uploads\elementor\css\post-7.css
+Content Type: text/css
+
+Uri: https://dukfuks.com/wp-content/uploads/useanyfont/3381dUk.woff
+File Name: C:\Downloaded Web Sites\dukfuks.com\wp-content\uploads\useanyfont\3381dUk.woff
+Content Type: application/font-woff
+
+Uri: https://dukfuks.com/wp-content/uploads/useanyfont/3381dUk.woff2
+File Name: C:\Downloaded Web Sites\dukfuks.com\wp-content\uploads\useanyfont\3381dUk.woff2
+Content Type: font/woff2
+
+Uri: https://dukfuks.com/wp-content/uploads/useanyfont/uaf.css?ver=1718620871
+File Name: C:\Downloaded Web Sites\dukfuks.com\wp-content\uploads\useanyfont\uaf.css
+Content Type: text/css
+
+Uri: https://dukfuks.com/wp-content/uploads/wpmss/wpmss.min.js?ver=1718489958
+File Name: C:\Downloaded Web Sites\dukfuks.com\wp-content\uploads\wpmss\wpmss.min.js
+Content Type: application/x-javascript
+
+Uri: https://dukfuks.com/wp-content/uploads/wpmss/wpmssab.min.js?ver=1718489958
+File Name: C:\Downloaded Web Sites\dukfuks.com\wp-content\uploads\wpmss\wpmssab.min.js
+Content Type: application/x-javascript
+
+Uri: https://dukfuks.com/wp-includes/js/dist/hooks.min.js?ver=2810c76e705dd1a53b18
+File Name: C:\Downloaded Web Sites\dukfuks.com\wp-includes\js\dist\hooks.min.js
+Content Type: application/x-javascript
+
+Uri: https://dukfuks.com/wp-includes/js/dist/i18n.min.js?ver=5e580eb46a90c2b997e6
+File Name: C:\Downloaded Web Sites\dukfuks.com\wp-includes\js\dist\i18n.min.js
+Content Type: application/x-javascript
+
+Uri: https://dukfuks.com/wp-includes/js/hoverIntent.min.js?ver=1.10.2
+File Name: C:\Downloaded Web Sites\dukfuks.com\wp-includes\js\hoverIntent.min.js
+Content Type: application/x-javascript
+
+Uri: https://dukfuks.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.1
+File Name: C:\Downloaded Web Sites\dukfuks.com\wp-includes\js\jquery\jquery-migrate.min.js
+Content Type: application/x-javascript
+
+Uri: https://dukfuks.com/wp-includes/js/jquery/jquery.min.js?ver=3.7.1
+File Name: C:\Downloaded Web Sites\dukfuks.com\wp-includes\js\jquery\jquery.min.js
+Content Type: application/x-javascript
+
+Uri: https://dukfuks.com/wp-includes/js/jquery/ui/core.min.js?ver=1.13.3
+File Name: C:\Downloaded Web Sites\dukfuks.com\wp-includes\js\jquery\ui\core.min.js
+Content Type: application/x-javascript
+
+Uri: https://dukfuks.com/wp-json/
+File Name: C:\Downloaded Web Sites\dukfuks.com\wp-json\index.htm
+Content Type: application/json
+
+Uri: https://dukfuks.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fdukfuks.com%2F
+File Name: C:\Downloaded Web Sites\dukfuks.com\wp-json\oembed\1.0\embed
+Content Type: application/json
+
+Uri: https://dukfuks.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fdukfuks.com%2F&format=xml
+File Name: C:\Downloaded Web Sites\dukfuks.com\wp-json\oembed\1.0\embed-1
+Content Type: text/xml
+
+Uri: https://dukfuks.com/wp-json/wp/v2/pages/1672
+File Name: C:\Downloaded Web Sites\dukfuks.com\wp-json\wp\v2\pages\1672
+Content Type: application/json
+
+Uri: https://dukfuks.com/xmlrpc.php?rsd
+File Name: C:\Downloaded Web Sites\dukfuks.com\xmlrpc.php
+Content Type: text/xml
+
+Uri: https://fonts.googleapis.com/css?family=DM+Sans:400%2C500%2C600%2C700|Oswald:400%2C500%2C600%2C700|Source+Sans+Pro:400%2C500%2C600%2C700&subset=latin-ext&display=swap&ver=1.0.0
+File Name: C:\Downloaded Web Sites\dukfuks.com\css
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css?family=Roboto:100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic|Roboto+Slab:100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic|Overpass+Mono:100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic&display=swap&ver=6.6.2
+File Name: C:\Downloaded Web Sites\dukfuks.com\css-1
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/dmsans/v15/rP2tp2ywxg089UriI5-g4vlH9VoD8CmcqZG40F9JadbnoEwAfJtRR23z.ttf
+File Name: C:\Downloaded Web Sites\dukfuks.com\s\dmsans\v15\rP2tp2ywxg089UriI5-g4vlH9VoD8CmcqZG40F9JadbnoEwAfJtRR23z.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v15/rP2tp2ywxg089UriI5-g4vlH9VoD8CmcqZG40F9JadbnoEwAkJxRR23z.ttf
+File Name: C:\Downloaded Web Sites\dukfuks.com\s\dmsans\v15\rP2tp2ywxg089UriI5-g4vlH9VoD8CmcqZG40F9JadbnoEwAkJxRR23z.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v15/rP2tp2ywxg089UriI5-g4vlH9VoD8CmcqZG40F9JadbnoEwAopxRR23z.ttf
+File Name: C:\Downloaded Web Sites\dukfuks.com\s\dmsans\v15\rP2tp2ywxg089UriI5-g4vlH9VoD8CmcqZG40F9JadbnoEwAopxRR23z.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v15/rP2tp2ywxg089UriI5-g4vlH9VoD8CmcqZG40F9JadbnoEwARZtRR23z.ttf
+File Name: C:\Downloaded Web Sites\dukfuks.com\s\dmsans\v15\rP2tp2ywxg089UriI5-g4vlH9VoD8CmcqZG40F9JadbnoEwARZtRR23z.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/oswald/v53/TK3_WkUHHAIjg75cFRf3bXL8LICs18NvsUhiYA.ttf
+File Name: C:\Downloaded Web Sites\dukfuks.com\s\oswald\v53\TK3_WkUHHAIjg75cFRf3bXL8LICs18NvsUhiYA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/oswald/v53/TK3_WkUHHAIjg75cFRf3bXL8LICs1xZosUhiYA.ttf
+File Name: C:\Downloaded Web Sites\dukfuks.com\s\oswald\v53\TK3_WkUHHAIjg75cFRf3bXL8LICs1xZosUhiYA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/oswald/v53/TK3_WkUHHAIjg75cFRf3bXL8LICs1y9osUhiYA.ttf
+File Name: C:\Downloaded Web Sites\dukfuks.com\s\oswald\v53\TK3_WkUHHAIjg75cFRf3bXL8LICs1y9osUhiYA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/oswald/v53/TK3_WkUHHAIjg75cFRf3bXL8LICs1_FvsUhiYA.ttf
+File Name: C:\Downloaded Web Sites\dukfuks.com\s\oswald\v53\TK3_WkUHHAIjg75cFRf3bXL8LICs1_FvsUhiYA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/overpassmono/v16/_Xm5-H86tzKDdAPa-KPQZ-AC_COcRycquHlL6EUKpXz0VO4.ttf
+File Name: C:\Downloaded Web Sites\dukfuks.com\s\overpassmono\v16\_Xm5-H86tzKDdAPa-KPQZ-AC_COcRycquHlL6EUKpXz0VO4.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/overpassmono/v16/_Xm5-H86tzKDdAPa-KPQZ-AC_COcRycquHlL6EUzpXz0VO4.ttf
+File Name: C:\Downloaded Web Sites\dukfuks.com\s\overpassmono\v16\_Xm5-H86tzKDdAPa-KPQZ-AC_COcRycquHlL6EUzpXz0VO4.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/overpassmono/v16/_Xm5-H86tzKDdAPa-KPQZ-AC_COcRycquHlL6EWKonz0VO4.ttf
+File Name: C:\Downloaded Web Sites\dukfuks.com\s\overpassmono\v16\_Xm5-H86tzKDdAPa-KPQZ-AC_COcRycquHlL6EWKonz0VO4.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/overpassmono/v16/_Xm5-H86tzKDdAPa-KPQZ-AC_COcRycquHlL6EXmonz0VO4.ttf
+File Name: C:\Downloaded Web Sites\dukfuks.com\s\overpassmono\v16\_Xm5-H86tzKDdAPa-KPQZ-AC_COcRycquHlL6EXmonz0VO4.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/overpassmono/v16/_Xm5-H86tzKDdAPa-KPQZ-AC_COcRycquHlL6EXUonz0VO4.ttf
+File Name: C:\Downloaded Web Sites\dukfuks.com\s\overpassmono\v16\_Xm5-H86tzKDdAPa-KPQZ-AC_COcRycquHlL6EXUonz0VO4.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v47/KFOKCnqEu92Fr1Mu53ZEC9_Vu3r1gIhOszmOClHrs6ljXfMMLgHQuAj-lg.ttf
+File Name: C:\Downloaded Web Sites\dukfuks.com\s\roboto\v47\KFOKCnqEu92Fr1Mu53ZEC9_Vu3r1gIhOszmOClHrs6ljXfMMLgHQuAj-lg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v47/KFOKCnqEu92Fr1Mu53ZEC9_Vu3r1gIhOszmOClHrs6ljXfMMLgHXuAj-lg.ttf
+File Name: C:\Downloaded Web Sites\dukfuks.com\s\roboto\v47\KFOKCnqEu92Fr1Mu53ZEC9_Vu3r1gIhOszmOClHrs6ljXfMMLgHXuAj-lg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v47/KFOKCnqEu92Fr1Mu53ZEC9_Vu3r1gIhOszmOClHrs6ljXfMMLijXuAj-lg.ttf
+File Name: C:\Downloaded Web Sites\dukfuks.com\s\roboto\v47\KFOKCnqEu92Fr1Mu53ZEC9_Vu3r1gIhOszmOClHrs6ljXfMMLijXuAj-lg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v47/KFOKCnqEu92Fr1Mu53ZEC9_Vu3r1gIhOszmOClHrs6ljXfMMLl_XuAj-lg.ttf
+File Name: C:\Downloaded Web Sites\dukfuks.com\s\roboto\v47\KFOKCnqEu92Fr1Mu53ZEC9_Vu3r1gIhOszmOClHrs6ljXfMMLl_XuAj-lg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v47/KFOKCnqEu92Fr1Mu53ZEC9_Vu3r1gIhOszmOClHrs6ljXfMMLmbXuAj-lg.ttf
+File Name: C:\Downloaded Web Sites\dukfuks.com\s\roboto\v47\KFOKCnqEu92Fr1Mu53ZEC9_Vu3r1gIhOszmOClHrs6ljXfMMLmbXuAj-lg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v47/KFOKCnqEu92Fr1Mu53ZEC9_Vu3r1gIhOszmOClHrs6ljXfMMLoHQuAj-lg.ttf
+File Name: C:\Downloaded Web Sites\dukfuks.com\s\roboto\v47\KFOKCnqEu92Fr1Mu53ZEC9_Vu3r1gIhOszmOClHrs6ljXfMMLoHQuAj-lg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v47/KFOKCnqEu92Fr1Mu53ZEC9_Vu3r1gIhOszmOClHrs6ljXfMMLoHRuAj-lg.ttf
+File Name: C:\Downloaded Web Sites\dukfuks.com\s\roboto\v47\KFOKCnqEu92Fr1Mu53ZEC9_Vu3r1gIhOszmOClHrs6ljXfMMLoHRuAj-lg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v47/KFOKCnqEu92Fr1Mu53ZEC9_Vu3r1gIhOszmOClHrs6ljXfMMLrPQuAj-lg.ttf
+File Name: C:\Downloaded Web Sites\dukfuks.com\s\roboto\v47\KFOKCnqEu92Fr1Mu53ZEC9_Vu3r1gIhOszmOClHrs6ljXfMMLrPQuAj-lg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v47/KFOKCnqEu92Fr1Mu53ZEC9_Vu3r1gIhOszmOClHrs6ljXfMMLt_QuAj-lg.ttf
+File Name: C:\Downloaded Web Sites\dukfuks.com\s\roboto\v47\KFOKCnqEu92Fr1Mu53ZEC9_Vu3r1gIhOszmOClHrs6ljXfMMLt_QuAj-lg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v47/KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWuaabVmUiA8.ttf
+File Name: C:\Downloaded Web Sites\dukfuks.com\s\roboto\v47\KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWuaabVmUiA8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v47/KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWub2bVmUiA8.ttf
+File Name: C:\Downloaded Web Sites\dukfuks.com\s\roboto\v47\KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWub2bVmUiA8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v47/KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWubEbFmUiA8.ttf
+File Name: C:\Downloaded Web Sites\dukfuks.com\s\roboto\v47\KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWubEbFmUiA8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v47/KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWubEbVmUiA8.ttf
+File Name: C:\Downloaded Web Sites\dukfuks.com\s\roboto\v47\KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWubEbVmUiA8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v47/KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWuYaalmUiA8.ttf
+File Name: C:\Downloaded Web Sites\dukfuks.com\s\roboto\v47\KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWuYaalmUiA8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v47/KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWuYjalmUiA8.ttf
+File Name: C:\Downloaded Web Sites\dukfuks.com\s\roboto\v47\KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWuYjalmUiA8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v47/KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWuZEalmUiA8.ttf
+File Name: C:\Downloaded Web Sites\dukfuks.com\s\roboto\v47\KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWuZEalmUiA8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v47/KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWuZEbVmUiA8.ttf
+File Name: C:\Downloaded Web Sites\dukfuks.com\s\roboto\v47\KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWuZEbVmUiA8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v47/KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWuZtalmUiA8.ttf
+File Name: C:\Downloaded Web Sites\dukfuks.com\s\roboto\v47\KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWuZtalmUiA8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v34/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjo0oSmb2Rm.ttf
+File Name: C:\Downloaded Web Sites\dukfuks.com\s\robotoslab\v34\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjo0oSmb2Rm.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v34/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoa4Omb2Rm.ttf
+File Name: C:\Downloaded Web Sites\dukfuks.com\s\robotoslab\v34\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoa4Omb2Rm.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v34/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoDIOmb2Rm.ttf
+File Name: C:\Downloaded Web Sites\dukfuks.com\s\robotoslab\v34\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoDIOmb2Rm.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v34/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoDISmb2Rm.ttf
+File Name: C:\Downloaded Web Sites\dukfuks.com\s\robotoslab\v34\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoDISmb2Rm.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v34/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjojISmb2Rm.ttf
+File Name: C:\Downloaded Web Sites\dukfuks.com\s\robotoslab\v34\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjojISmb2Rm.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v34/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjojIWmb2Rm.ttf
+File Name: C:\Downloaded Web Sites\dukfuks.com\s\robotoslab\v34\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjojIWmb2Rm.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v34/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoJYOmb2Rm.ttf
+File Name: C:\Downloaded Web Sites\dukfuks.com\s\robotoslab\v34\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoJYOmb2Rm.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v34/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoUoOmb2Rm.ttf
+File Name: C:\Downloaded Web Sites\dukfuks.com\s\robotoslab\v34\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoUoOmb2Rm.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v34/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjovoSmb2Rm.ttf
+File Name: C:\Downloaded Web Sites\dukfuks.com\s\robotoslab\v34\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjovoSmb2Rm.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/sourcesanspro/v22/6xK3dSBYKcSV-LCoeQqfX1RYOo3qNq7g.ttf
+File Name: C:\Downloaded Web Sites\dukfuks.com\s\sourcesanspro\v22\6xK3dSBYKcSV-LCoeQqfX1RYOo3qNq7g.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/sourcesanspro/v22/6xKydSBYKcSV-LCoeQqfX1RYOo3i54rwmRdr.ttf
+File Name: C:\Downloaded Web Sites\dukfuks.com\s\sourcesanspro\v22\6xKydSBYKcSV-LCoeQqfX1RYOo3i54rwmRdr.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/sourcesanspro/v22/6xKydSBYKcSV-LCoeQqfX1RYOo3ig4vwmRdr.ttf
+File Name: C:\Downloaded Web Sites\dukfuks.com\s\sourcesanspro\v22\6xKydSBYKcSV-LCoeQqfX1RYOo3ig4vwmRdr.ttf
+Content Type: font/ttf
+
