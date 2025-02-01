@@ -274,8 +274,8 @@ Uri: https://dukfuks.com/wp-content/uploads/2024/06/760c8819-5a3a-4ebe-b2ca-6b84
 File Name: C:\Downloaded Web Sites\dukfuks.com\wp-content\uploads\2024\06\760c8819-5a3a-4ebe-b2ca-6b84158c7ca4-min-768x768.jpg
 Content Type: image/jpeg
 
-Uri: https://dukfuks.com/wp-content/uploads/2024/06/crowd.png
-File Name: C:\Downloaded Web Sites\dukfuks.com\wp-content\uploads\2024\06\crowd.png
+Uri: https://dukfuks.com/wp-content/uploads/2024/06/crowd.webp
+File Name: C:\Downloaded Web Sites\dukfuks.com\wp-content\uploads\2024\06\crowd.webp
 Content Type: image/jpeg
 
 Uri: https://dukfuks.com/wp-content/uploads/2024/06/7fe27c7c-f05d-47c3-b47d-7cc12028369c-min-1024x1024.jpg
